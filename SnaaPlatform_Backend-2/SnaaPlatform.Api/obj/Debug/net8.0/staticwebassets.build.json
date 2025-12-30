@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U2DzknAlDmZXQKTVV3HTqjFMPpNXbrgox+DRet1DPco=",
+  "Source": "SnaaPlatform.Api",
+  "BasePath": "_content/SnaaPlatform.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
